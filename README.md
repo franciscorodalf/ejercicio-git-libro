@@ -99,4 +99,13 @@ index e69de29..30eaeb3 100644
 +Date:   Mon Oct 14 16:26:30 2024 +0100
 +
 +    Se ha añadido el capitulo 3
-+```
+```
+
+
+oneline
+* 2216603 (HEAD -> main) Se ha añadido el capitulo 4
+* d756f9c (bibliografia) Se crea el indice
+* 96152bf Se ha añadido el capitulo 3
+* d938799 Se ha añadido el capitulo 2
+* 5930d2e Se ha añadido el capitulo 1
+
