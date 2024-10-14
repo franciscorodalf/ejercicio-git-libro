@@ -42,4 +42,13 @@ Author: franciscorodalf <franteleco1278@gmail.com>
 Date:   Mon Oct 14 16:26:30 2024 +0100
 
     Se ha añadido el capitulo 3
-```
+``` 
+
+* ce6ed63 (HEAD -> bibliografia) Añadida primera referencia bibliografica
+| * 649ead4 (main) Se edita el README.md
+| * 2216603 Se ha añadido el capitulo 4
+|/  
+* d756f9c Se crea el indice
+* 96152bf Se ha añadido el capitulo 3
+* d938799 Se ha añadido el capitulo 2
+* 5930d2e Se ha añadido el capitulo 1
